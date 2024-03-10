@@ -1,0 +1,16 @@
+.container {
+  padding: 130px 30px 30px 30px;
+  margin: 0 auto;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
